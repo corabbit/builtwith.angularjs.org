@@ -1268,18 +1268,28 @@
     {
 	  "name": "corabbit",
       "thumb": "corabbit/thumb.png",
-      "desc": "Collaboration focused media, document, and general file sharing service.",
+      "desc": "A simple way to communicate, share, manage, and approve work with your team and clients.",
       "url": "https://corabbit.com/home",
       "info": "http://blog.corabbit.com",
       "submitter": "hiromitz",
       "submissionDate": "2013-04-05",
       "tags": [
-    	"Production",
-		"Productivity",
-    	"Yeoman", "collaboration", "file storage", "file api",
-    	"jQuery",
-    	"Lithium", "Compass", "HTML5", "CSS3", "Bootstrap", "Cloud",
-    	"Tests Included"
+        "Production",
+		    "Productivity",
+    	  "Yeoman",
+        "collaboration",
+        "file storage",
+        "feedback",
+        "approval",
+        "file api",
+    	  "jQuery",
+    	  "Lithium",
+        "Compass",
+        "HTML5",
+        "CSS3",
+        "Bootstrap",
+        "Cloud",
+        "Tests Included"
   		]
 	},
   ]
